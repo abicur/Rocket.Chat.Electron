@@ -1,3 +1,20 @@
+<a name="2.14.5"></a>
+## 2.14.5 (2018-12-03)
+
+
+### Improvements
+
+- [#1010](https://github.com/RocketChat/Rocket.Chat.Electron/pull/1010) Remove unused modules
+
+
+### Bug Fixes
+
+- [#1005](https://github.com/RocketChat/Rocket.Chat.Electron/pull/1005) Disable FreeDesktopNotification actions for Unity desktop
+- [#1025](https://github.com/RocketChat/Rocket.Chat.Electron/pull/1025) Remove dependencies related to the npm's event-stream incident
+- [#1019](https://github.com/RocketChat/Rocket.Chat.Electron/pull/1019) Rollback notifications for Windows
+
+
+
 <a name="2.14.4"></a>
 ## 2.14.4 (2018-11-21)
 
@@ -13,7 +30,7 @@
 <details>
 <summary>Others</summary>
 
-- [#987](https://github.com/RocketChat/Rocket.Chat.Electron/pull/987)  [IMPROVE] Update Russian translation
+- [#987](https://github.com/RocketChat/Rocket.Chat.Electron/pull/987) Update Russian translation
 </details>
 
 
